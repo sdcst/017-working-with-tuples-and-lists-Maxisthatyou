@@ -23,8 +23,6 @@ Enter a word: virus
 
 ['apple', 'worm', 'dollar', 'shingle', 'virus']
 """
-
-
 x = 0
 if x == 0:
     list = []

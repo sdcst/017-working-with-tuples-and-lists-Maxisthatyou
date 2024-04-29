@@ -34,4 +34,5 @@ if x in fruit:
         fruit.pop(y)
 else:
     print("word not in list")
+    fruit.append(x)
 print(fruit)
